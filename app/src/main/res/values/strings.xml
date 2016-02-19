@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Animate</string>
+
+    <string name="ground">Ground</string>
+    <string name="sun">Sun</string>
+    <string name="cloud">Cloud</string>
+    <string name="droid">Droid</string>
+</resources>
